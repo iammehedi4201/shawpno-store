@@ -79,12 +79,12 @@ p{
 {
   position:fixed;
   top:0px;
-  z-index:9999;
+  z-index:99999;
 }
 
 .undrmnu_srch
 {  
-  clear:both;
+ 
   padding-top:0;
    position:relative;
    margin-bottom:6px;
@@ -120,7 +120,7 @@ p{
    background:url(img/srchIcon.png) no-repeat;
    position:absolute; 
    right: 0;
-   top:16px;
+   top:82px;
    background-size: 20px 20px;
 }
 

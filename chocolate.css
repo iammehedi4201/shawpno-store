@@ -79,12 +79,12 @@ p{
 {
   position:fixed;
   top:0px;
-  z-index:9999;
+  z-index:99999;
 }
 
 .undrmnu_srch
 {  
-  clear:both;
+  
   padding-top:0;
    position:relative;
    margin-bottom:6px;
